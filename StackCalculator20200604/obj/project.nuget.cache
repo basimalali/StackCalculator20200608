@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SYoJiRh/ilf57BuIzg4K4agJM7OPhrER3LEpnNv64PS7VzPEXZQCiYcZJHJRxohLGqnOW7MaHPfOX5TfdDdyDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NEDL\\source\\repos\\StackCalculator20200604\\StackCalculator20200604.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NEDL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
